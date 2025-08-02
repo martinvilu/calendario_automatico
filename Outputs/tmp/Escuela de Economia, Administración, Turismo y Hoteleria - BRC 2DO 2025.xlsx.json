@@ -1,0 +1,2509 @@
+{
+  "CODIGO SIU": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ PRACT  - COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DíA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ PRACT  - COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DíA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ PRACT  - COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DíA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ PRACT  - COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DíA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ PRACT  - COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DíA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ PRACT  - COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DíA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ PRACT  - COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DíA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ PRACT  - COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DíA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ PRACT  - COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DíA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ PRACT  - COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DíA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ PRACT  - COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DíA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ PRACT  - COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DíA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ PRACT  - COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DíA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ PRACT  - COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DíA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ PRACT  - COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DíA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ PRACT  - COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DíA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ PRACT  - COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DíA"
+      }
+    ]
+  },
+  "T0001": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO/ PCO",
+        "inicio": "ASINCRONICO",
+        "fin": "ASINCRONICO",
+        "aula": "VIRTUAL",
+        "lugar": "-"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO/ PCO",
+        "inicio": "ASINCRONICO",
+        "fin": "ASINCRONICO",
+        "aula": "VIRTUAL",
+        "lugar": "-"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO/ PCO",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO/ PCO",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "V1017": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "ASINCRONICO",
+        "fin": "ASINCRONICO",
+        "aula": "VIRTUAL",
+        "lugar": "-"
+      }
+    ]
+  },
+  "V1025": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 2",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "JUEVES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 2",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "VIERNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 3",
+        "inicio": "AULA 4 \"A\"",
+        "fin": "AULA 4 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "V1018": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULAS B102-A",
+        "fin": "AULAS B102-A",
+        "aula": "ANASAGASTI 2",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 2",
+        "inicio": "AULAS B102-A",
+        "fin": "AULAS B102-A",
+        "aula": "ANASAGASTI 2",
+        "lugar": "MIÉRCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 3",
+        "inicio": "AULAS B102-A",
+        "fin": "AULAS B102-A",
+        "aula": "ANASAGASTI 2",
+        "lugar": "JUEVES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 2",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "MIÉRCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "MIERCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "ASINCRONICO",
+        "fin": "ASINCRONICO",
+        "aula": "VIRTUAL",
+        "lugar": "-"
+      }
+    ]
+  },
+  "V1019": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "ASINCRONICO",
+        "fin": "ASINCRONICO",
+        "aula": "VIRTUAL",
+        "lugar": "-"
+      }
+    ]
+  },
+  "V1037": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 2",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "JUEVES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 2",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "MIÉRCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 3",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "VIERNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 4",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "V1024": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO1",
+        "inicio": "AULAS B202-A y B202-B",
+        "fin": "AULAS B202-A y B202-B",
+        "aula": "ANASAGASTI 2",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO2",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "JUEVES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "MIERCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 2",
+        "inicio": "AULA 4 \"D\"",
+        "fin": "AULA 4 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "JUEVES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 3",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "VIERNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 4",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "VIERNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO1",
+        "inicio": "AULAS B102-A y B102-B",
+        "fin": "AULAS B102-A y B102-B",
+        "aula": "ANASAGASTI 2",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO2",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "JUEVES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRA1",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "MIERCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRA2",
+        "inicio": "AULA 4 \"D\"",
+        "fin": "AULA 4 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "JUEVES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRA3",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "VIERNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRA4",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "VIERNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO1",
+        "inicio": "AULAS B202-A y B202-B",
+        "fin": "AULAS B202-A y B202-B",
+        "aula": "ANASAGASTI 2",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO2",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "JUEVES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "MIERCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 2",
+        "inicio": "AULA 4 \"D\"",
+        "fin": "AULA 4 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "JUEVES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 3",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "VIERNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 4",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "VIERNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO1",
+        "inicio": "AULAS B202-A y B202-B",
+        "fin": "AULAS B202-A y B202-B",
+        "aula": "ANASAGASTI 2",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO2",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "JUEVES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "MIERCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 2",
+        "inicio": "AULA 4 \"D\"",
+        "fin": "AULA 4 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "JUEVES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 3",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "VIERNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 4",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "V1039": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 4 \"A\"",
+        "fin": "AULA 4 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "VIERNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "-"
+      }
+    ]
+  },
+  "V1411": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO",
+        "inicio": "ASINCRONICO",
+        "fin": "ASINCRONICO",
+        "aula": "VIRTUAL",
+        "lugar": "JUEVES"
+      }
+    ]
+  },
+  "V1026": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 2",
+        "fin": "AULA 2",
+        "aula": "ESCUELA 16",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 4 \"D\"",
+        "fin": "AULA 4 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "MIERCOLES"
+      }
+    ]
+  },
+  "V1412": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "VIERNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 2",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 2",
+        "inicio": "AULA 4 \"B\"",
+        "fin": "AULA 4 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "V1413": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 4 \"A\"",
+        "fin": "AULA 4 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 4 \"A\"",
+        "fin": "AULA 4 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "MARTES"
+      }
+    ]
+  },
+  "V1051": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 1",
+        "fin": "AULA 1",
+        "aula": "ESCUELA 16",
+        "lugar": "VIERNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 5",
+        "fin": "AULA 5",
+        "aula": "ESCUELA 16",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 1",
+        "fin": "AULA 1",
+        "aula": "ESCUELA 16",
+        "lugar": "VIERNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 5",
+        "fin": "AULA 5",
+        "aula": "ESCUELA 16",
+        "lugar": "MARTES"
+      }
+    ]
+  },
+  "V1418/ V1070": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 4 \"C\"",
+        "fin": "AULA 4 \"C\"",
+        "aula": "MITRE 630",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "MARTES"
+      }
+    ]
+  },
+  "V1038": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 4 \"C\"",
+        "fin": "AULA 4 \"C\"",
+        "aula": "MITRE 630",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 3",
+        "fin": "AULA 3",
+        "aula": "ESCUELA 16",
+        "lugar": "MIERCOLES"
+      }
+    ]
+  },
+  "V1047": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "JUEVES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "JUEVES"
+      }
+    ]
+  },
+  "VR506": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "-"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 4",
+        "fin": "AULA 4",
+        "aula": "ESCUELA 16",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "L0004": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "JUEVES"
+      }
+    ]
+  },
+  "B5383": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "MIERCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "-"
+      }
+    ]
+  },
+  "B5407": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 4",
+        "fin": "AULA 4",
+        "aula": "ESCUELA 187",
+        "lugar": "JUEVES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 4",
+        "fin": "AULA 4",
+        "aula": "ESCUELA 187",
+        "lugar": "JUEVES"
+      }
+    ]
+  },
+  "V1052": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "MIÉRCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 5",
+        "fin": "AULA 5",
+        "aula": "ESCUELA 16",
+        "lugar": "VIERNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "MIÉRCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 5",
+        "fin": "AULA 5",
+        "aula": "ESCUELA 16",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "V1044 / V1425": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "MARTES"
+      }
+    ]
+  },
+  "V1043": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "-"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "-"
+      }
+    ]
+  },
+  "V1064": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "B202-A",
+        "fin": "B202-A",
+        "aula": "ANASAGASTI 2",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "B202-A",
+        "fin": "B202-A",
+        "aula": "ANASAGASTI 2",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "MARTES"
+      }
+    ]
+  },
+  "B5001": {
+    "docente": "-",
+    "email": "-",
+    "horarios": []
+  },
+  "V1066 / V1422": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "-"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "-"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "-"
+      }
+    ]
+  },
+  "V1421": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 4",
+        "fin": "AULA 4",
+        "aula": "ESCUELA 16",
+        "lugar": "MIERCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "VIERNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 4",
+        "fin": "AULA 4",
+        "aula": "ESCUELA 16",
+        "lugar": "MIERCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "B5012": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 1",
+        "fin": "AULA 1",
+        "aula": "ESCUELA 16",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 1",
+        "fin": "AULA 1",
+        "aula": "ESCUELA 16",
+        "lugar": "MARTES"
+      }
+    ]
+  },
+  "B5434": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "MIERCOLES"
+      }
+    ]
+  },
+  "B5414": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO",
+        "inicio": "B-202-B",
+        "fin": "B-202-B",
+        "aula": "ANASAGASTI 2",
+        "lugar": "JUEVES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "MIERCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO",
+        "inicio": "VIRTUAL",
+        "fin": "VIRTUAL",
+        "aula": "VIRTUAL",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "B5411": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "MARTES"
+      }
+    ]
+  },
+  "V1060": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "B203 TIC´S",
+        "fin": "B203 TIC´S",
+        "aula": "ANASAGASTI 2",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "B203 TIC´S",
+        "fin": "B203 TIC´S",
+        "aula": "ANASAGASTI 2",
+        "lugar": "MIERCOLES"
+      }
+    ]
+  },
+  "B5486": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "JUEVES"
+      }
+    ]
+  },
+  "B5483": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 5",
+        "fin": "AULA 5",
+        "aula": "ESCUELA 16",
+        "lugar": "JUEVES"
+      }
+    ]
+  },
+  "B5484": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "B5485": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 2 \"C\"",
+        "fin": "AULA 2 \"C\"",
+        "aula": "MITRE 630",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "B103",
+        "fin": "B103",
+        "aula": "ANASAGASTI 2",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "B5419": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "JUEVES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO",
+        "inicio": "AULA 2 \"C\"",
+        "fin": "AULA 2 \"C\"",
+        "aula": "MITRE 630",
+        "lugar": "LUNES"
+      }
+    ]
+  },
+  "B5420 / B5489": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 4",
+        "fin": "AULA 4",
+        "aula": "TACUARI 150",
+        "lugar": "MIÉRCOLES"
+      }
+    ]
+  },
+  "L0001": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "JUEVES"
+      }
+    ]
+  },
+  "B5490": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "LUNES"
+      }
+    ]
+  },
+  "B5423 /B5492": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO/PCO",
+        "inicio": "AULA 4 \"B\"",
+        "fin": "AULA 4 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "MARTES"
+      }
+    ]
+  },
+  "B5427/B5491": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "MIÉRCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 2",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "B5449": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "JUEVES"
+      }
+    ]
+  },
+  "B5448": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 5",
+        "fin": "AULA 5",
+        "aula": "ESCUELA 16",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 6",
+        "fin": "AULA 6",
+        "aula": "ESCUELA 16",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "B5376": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO-PRA",
+        "inicio": "B103",
+        "fin": "B103",
+        "aula": "ANASAGASTI 2",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "B5050": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 2",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "MIERCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 2",
+        "inicio": "AULA 1",
+        "fin": "AULA 1",
+        "aula": "ESCUELA 16",
+        "lugar": "JUEVES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 2",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "MIERCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 2",
+        "inicio": "AULA 1",
+        "fin": "AULA 1",
+        "aula": "ESCUELA 16",
+        "lugar": "JUEVES"
+      }
+    ]
+  },
+  "B6053": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 4 \"B\"",
+        "fin": "AULA 4 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "MIERCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 2",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "B6054": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "LUNES"
+      }
+    ]
+  },
+  "B6055": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "MIERCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "JUEVES"
+      }
+    ]
+  },
+  "L0002": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "B202-B",
+        "fin": "B202-B",
+        "aula": "ANASAGASTI 2",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "B202-B",
+        "fin": "B202-B",
+        "aula": "ANASAGASTI 2",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "LUNES"
+      }
+    ]
+  },
+  "B6058": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "MIÉRCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 5",
+        "fin": "AULA 5",
+        "aula": "ESCUELA 16",
+        "lugar": "MIÉRCOLES"
+      }
+    ]
+  },
+  "B6057": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "VIERNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "B5065": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "TIC´S 2",
+        "fin": "TIC´S 2",
+        "aula": "TACUARI 150",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "TIC´S 2",
+        "fin": "TIC´S 2",
+        "aula": "TACUARI 150",
+        "lugar": "MARTES"
+      }
+    ]
+  },
+  "B6059": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "MIERCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "JUEVES"
+      }
+    ]
+  },
+  "B5081": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "B203 TIC´S",
+        "fin": "B203 TIC´S",
+        "aula": "ANASAGASTI 2",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "B203 TIC´S",
+        "fin": "B203 TIC´S",
+        "aula": "ANASAGASTI 2",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "B203 TIC´S",
+        "fin": "B203 TIC´S",
+        "aula": "ANASAGASTI 2",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "B203 TIC´S",
+        "fin": "B203 TIC´S",
+        "aula": "ANASAGASTI 2",
+        "lugar": "MARTES"
+      }
+    ]
+  },
+  "B5360": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "COM1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "MARTES"
+      }
+    ]
+  },
+  "B6065 / B5373": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "MARTES"
+      }
+    ]
+  },
+  "B5076": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "MIERCOLES"
+      }
+    ]
+  },
+  "B6064": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 4 \"A\"",
+        "fin": "AULA 4 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "MARTES"
+      }
+    ]
+  },
+  "B6063": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "COM1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "MARTES"
+      }
+    ]
+  },
+  "B5079": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "VIERNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "B5080": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "B203 TIC´S",
+        "fin": "B203 TIC´S",
+        "aula": "ANASAGASTI 2",
+        "lugar": "JUEVES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRAC1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "JUEVES"
+      }
+    ]
+  },
+  "B5077 / B6072": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "COM1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "MARTES"
+      }
+    ]
+  },
+  "B6071": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "ISETP",
+        "lugar": "MARTES"
+      }
+    ]
+  },
+  "B6041": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "B203 TIC´S",
+        "fin": "B203 TIC´S",
+        "aula": "ANASAGASTI 2",
+        "lugar": "MIERCOLES"
+      }
+    ]
+  },
+  "B5429 / B5374 / B6075": {
+    "docente": "-",
+    "email": "-",
+    "horarios": []
+  },
+  "B6070": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "A CONFIRMAR",
+        "lugar": "-"
+      }
+    ]
+  },
+  "B5058": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA B202-A",
+        "fin": "AULA B202-A",
+        "aula": "ANASAGASTI 2",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "B5525": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO/ PCO",
+        "inicio": "AULA 4 \"B\"",
+        "fin": "AULA 4 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO/ PCO",
+        "inicio": "AULA 4 \"C\"",
+        "fin": "AULA 4 \"C\"",
+        "aula": "MITRE 630",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "B5526": {
+    "docente": "-",
+    "email": "-",
+    "horarios": []
+  },
+  "B5501": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO/ PCO",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "VIERNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO/ PCO",
+        "inicio": "AULA 5",
+        "fin": "AULA 5",
+        "aula": "TACUARI 150",
+        "lugar": "MARTES"
+      }
+    ]
+  },
+  "B5506": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO",
+        "inicio": "AULA 4",
+        "fin": "AULA 4",
+        "aula": "TACUARI 150",
+        "lugar": "JUEVES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO",
+        "inicio": "AULA 4 \"C\"",
+        "fin": "AULA 4 \"C\"",
+        "aula": "MITRE 630",
+        "lugar": "MIERCOLES"
+      }
+    ]
+  },
+  "B5535": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO",
+        "inicio": "AULA B202-A",
+        "fin": "AULA B202-A",
+        "aula": "ANASAGASTI 2",
+        "lugar": "VIERNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO",
+        "inicio": "AULA B202-A",
+        "fin": "AULA B202-A",
+        "aula": "ANASAGASTI 2",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "B5507": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "JUEVES"
+      }
+    ]
+  },
+  "B5527": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 4 \"B\"",
+        "fin": "AULA 4 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "MIERCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 2",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "B5524": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "MIERCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "JUEVES"
+      }
+    ]
+  },
+  "B5515": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 2 \"C\"",
+        "fin": "AULA 2 \"C\"",
+        "aula": "MITRE 630",
+        "lugar": "LUNES"
+      }
+    ]
+  },
+  "B5496": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 4 \"C\"",
+        "fin": "AULA 4 \"C\"",
+        "aula": "MITRE 630",
+        "lugar": "MIERCOLES"
+      }
+    ]
+  },
+  "B5497": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 4 \"C\"",
+        "fin": "AULA 4 \"C\"",
+        "aula": "MITRE 630",
+        "lugar": "MARTES"
+      }
+    ]
+  },
+  "B5059": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "A CONFIRMAR",
+        "lugar": "SABADO"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "A CONFIRMAR",
+        "lugar": "SABADO"
+      }
+    ]
+  },
+  "B5353/B5517": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO 1",
+        "inicio": "AULA 3",
+        "fin": "AULA 3",
+        "aula": "ESCUELA 16",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PCO 1",
+        "inicio": "AULA 3",
+        "fin": "AULA 3",
+        "aula": "ESCUELA 16",
+        "lugar": "LUNES"
+      }
+    ]
+  },
+  "B5499": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "-",
+        "lugar": "-"
+      }
+    ]
+  },
+  "B5519": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "-",
+        "lugar": "-"
+      }
+    ]
+  },
+  "B5429": {
+    "docente": "-",
+    "email": "-",
+    "horarios": []
+  },
+  "B5518": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 2 \"C\"",
+        "fin": "AULA 2 \"C\"",
+        "aula": "MITRE 630",
+        "lugar": "MIERCOLES"
+      }
+    ]
+  },
+  "B5346": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "AULA 2 \"C\"",
+        "fin": "AULA 2 \"C\"",
+        "aula": "MITRE 630",
+        "lugar": "JUEVES"
+      }
+    ]
+  }
+}

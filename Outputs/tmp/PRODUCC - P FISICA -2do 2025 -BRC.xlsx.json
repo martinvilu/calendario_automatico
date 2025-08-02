@@ -1,0 +1,422 @@
+{
+  "B5587": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "LAB. FISICA",
+        "fin": "LAB. FISICA",
+        "aula": "TACUARI 150",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "LAB. FISICA",
+        "fin": "LAB. FISICA",
+        "aula": "TACUARI 150",
+        "lugar": "MARTES"
+      }
+    ]
+  },
+  "B5586": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 1",
+        "fin": "AULA 1",
+        "aula": "TACUARI 150",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 1",
+        "fin": "AULA 1",
+        "aula": "TACUARI 150",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 1",
+        "fin": "AULA 1",
+        "aula": "TACUARI 150",
+        "lugar": "JUEVES"
+      }
+    ]
+  },
+  "B5588": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "LAB. FISICA",
+        "fin": "LAB. FISICA",
+        "aula": "TACUARI 150",
+        "lugar": "MIERCOLES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "LAB. FISICA",
+        "fin": "LAB. FISICA",
+        "aula": "TACUARI 150",
+        "lugar": "JUEVES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 5",
+        "fin": "AULA 5",
+        "aula": "TACUARI 150",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "CODIGO SIU": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TIPO",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TIPO",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TIPO",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      }
+    ]
+  },
+  "B5278 / B5659": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 4",
+        "fin": "AULA 4",
+        "aula": "TACUARI 150",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 4",
+        "fin": "AULA 4",
+        "aula": "TACUARI 150",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "B5280 / B5325": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "B202-B",
+        "fin": "B202-B",
+        "aula": "ANASAGASTI 2",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "B203 TIC´S",
+        "fin": "B203 TIC´S",
+        "aula": "ANASAGASTI 2",
+        "lugar": "JUEVES"
+      }
+    ]
+  },
+  "B5277 / B5599": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 4",
+        "fin": "AULA 4",
+        "aula": "TACUARI 150",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 5",
+        "fin": "AULA 5",
+        "aula": "TACUARI 150",
+        "lugar": "JUEVES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 4",
+        "fin": "AULA 4",
+        "aula": "TACUARI 150",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "VR 316": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "B202-B",
+        "fin": "B202-B",
+        "aula": "ANASAGASTI 2",
+        "lugar": "LUNES"
+      }
+    ]
+  },
+  "B5320": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "B202-B",
+        "fin": "B202-B",
+        "aula": "ANASAGASTI 2",
+        "lugar": "MIERCOLES"
+      }
+    ]
+  },
+  "L0004": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "B202-B",
+        "fin": "B202-B",
+        "aula": "ANASAGASTI 2",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "B202-B",
+        "fin": "B202-B",
+        "aula": "ANASAGASTI 2",
+        "lugar": "MIERCOLES"
+      }
+    ]
+  },
+  "B5290 / B5670": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "B5317 / B5668": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "Aula 4",
+        "fin": "Aula 4",
+        "aula": "TACUARI 150",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "OF. FISICA",
+        "fin": "OF. FISICA",
+        "aula": "TACUARI 150",
+        "lugar": "JUEVES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "MARTES"
+      }
+    ]
+  },
+  "B5318 / B5669": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "LAB FISICA",
+        "fin": "LAB FISICA",
+        "aula": "TACUARI 150",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "Aula 5",
+        "fin": "Aula 5",
+        "aula": "TACUARI 150",
+        "lugar": "JUEVES"
+      }
+    ]
+  },
+  "B5300": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "OF. FISICA",
+        "fin": "OF. FISICA",
+        "aula": "TACUARI 150",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "OF. FISICA",
+        "fin": "OF. FISICA",
+        "aula": "TACUARI 150",
+        "lugar": "MIERCOLES"
+      }
+    ]
+  },
+  "B5330": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "OF. FISICA",
+        "fin": "OF. FISICA",
+        "aula": "TACUARI 150",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "LAB FISICA",
+        "fin": "LAB FISICA",
+        "aula": "TACUARI 150",
+        "lugar": "MIERCOLES"
+      }
+    ]
+  },
+  "B5289": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "Aula 5",
+        "fin": "Aula 5",
+        "aula": "TACUARI 150",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "LAB FISICA",
+        "fin": "LAB FISICA",
+        "aula": "TACUARI 150",
+        "lugar": "JUEVES"
+      }
+    ]
+  }
+}

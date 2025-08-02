@@ -1,0 +1,576 @@
+{
+  "COMUNICACIÓN Y SEMIOTICA PRESENCIAL": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "7",
+        "fin": "7",
+        "aula": "San Martin",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "COMUNICACIÓN Y SEMIOTICA VIRTUAL": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "2",
+        "inicio": "Virtual",
+        "fin": "Virtual",
+        "aula": "Virtual",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "FOTOGRAFÍA Y CÁMARA I": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "3+Estudio",
+        "fin": "3+Estudio",
+        "aula": "San Martin",
+        "lugar": "Miércoles"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "2",
+        "inicio": "7+Estudio",
+        "fin": "7+Estudio",
+        "aula": "San Martin",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "SONIDO I": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "2+informática",
+        "fin": "2+informática",
+        "aula": "San Martin",
+        "lugar": "Miércoles"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "2",
+        "inicio": "2+informática",
+        "fin": "2+informática",
+        "aula": "San Martin",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "HISTORIA GENERAL DEL ARTE": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "2",
+        "inicio": "2",
+        "fin": "2",
+        "aula": "San Martin",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "ASIGNATURA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC \n COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DÍA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ \nPRAC \nCOMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DÍA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ \nPRAC \nCOMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DÍA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ \nPRAC \nCOMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DÍA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ \nPRAC \nCOMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DÍA"
+      }
+    ]
+  },
+  "GUIÓN II": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "2",
+        "fin": "2",
+        "aula": "San Martin",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "DIRECCIÓN ACTORAL (PLAN 2018/2022)": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "2",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "San Martin",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "8",
+        "fin": "8",
+        "aula": "San Martin",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "HISTORIA ANALÍTICA DE LOS MEDIOS AUDIOVISUALES II  (PLAN 2018/2022) HIBRIDA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "2",
+        "fin": "2",
+        "aula": "San Martin",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "DIRECCIÓN DE ARTE (PLAN 2018/2022)": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "8",
+        "fin": "8",
+        "aula": "San Martin",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "FOTOGRAFÍA Y CÁMARA II (PLAN 2018/2022)": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "3+Estudio",
+        "fin": "3+Estudio",
+        "aula": "San Martin",
+        "lugar": "Miercoles"
+      }
+    ]
+  },
+  "GESTIÓN Y PRODUCCIÓN AUDIOVISUAL": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "2",
+        "fin": "2",
+        "aula": "San Martin",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "ORIENTACIÓN EN REALIZACIÓN": {
+    "docente": "-",
+    "email": "-",
+    "horarios": []
+  },
+  "TALLER DE DISEÑO AUDIOVISUAL IV- ORIENTACIÓN EN REALIZACIÓN": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "8",
+        "fin": "8",
+        "aula": "San Martin",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "TRABAJO SOCIAL AUDIOVISUAL (PLAN 2018/2022)-VIRTUAL": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "Virtual",
+        "fin": "Virtual",
+        "aula": "Virtual",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "Virtual",
+        "fin": "Virtual",
+        "aula": "Virtual",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "MONTAJE Y EDICIÓN DIGITAL (PLAN 2018/2022)": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "informática",
+        "fin": "informática",
+        "aula": "San Martin",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "PRODUCCIÓN Y EJECUCIÓN DE PROYECTOS AUDIOVISUALES (PLAN 2018-2022)": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "Aula 2 +\n Informática",
+        "fin": "Aula 2 +\n Informática",
+        "aula": "San Martin",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "POST PRODUCCIÓN AUDIOVISUAL (PLAN 2018-2022)": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "informática",
+        "fin": "informática",
+        "aula": "San Martin",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "NARRATIVA TRANSMEDIA  (PLAN 2018-2022)": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "Virtual",
+        "fin": "Virtual",
+        "aula": "Virtual",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "LENGUAJE VISUAL II (PLAN 2018/2022)": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "8",
+        "fin": "8",
+        "aula": "San Martin",
+        "lugar": "Miercoles"
+      }
+    ]
+  },
+  "ORIENTACIÓN EN MEDIOS DIGITALES": {
+    "docente": "-",
+    "email": "-",
+    "horarios": []
+  },
+  "TALLER DE DISEÑO AUDIOVISUAL IV-ORIENTACIÓN EN MEDIOS DIGITALES": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "informática",
+        "fin": "informática",
+        "aula": "San Martin",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "CULTURA VISUAL-HIBRIDA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "Aula 2",
+        "fin": "Aula 2",
+        "aula": "Híbrida",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "ARTE Y CÓDIGO CREATIVO I   (PLAN 2018-2022)-HIBRIDA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "informática",
+        "fin": "informática",
+        "aula": "San Martin",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "SISTEMAS DE REPRESENTACIÓN DIGITAL": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "informática",
+        "fin": "informática",
+        "aula": "San Martin",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "POST PRODUCCIÓN AUDIOVISUAL  (PLAN 2018-2022)": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "informática",
+        "fin": "informática",
+        "aula": "San Martin",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "DISEÑO DE POST PRODUCCIÓN (PLAN 2018-2022)": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "6",
+        "fin": "6",
+        "aula": "San Martin",
+        "lugar": "martes"
+      }
+    ]
+  },
+  "ARTE CONTEMPORÁNEO VIRTUAL": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "Virtual",
+        "fin": "Virtual",
+        "aula": "Virtual",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "OPTATIVA I-REALIZACIÓN DE DOCUMENTALES": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "6",
+        "fin": "6",
+        "aula": "San Martin",
+        "lugar": "Miercoles"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "6",
+        "fin": "6",
+        "aula": "San Martin",
+        "lugar": "Miercoles"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "Aula Perito\nMoreno",
+        "fin": "Aula Perito\nMoreno",
+        "aula": "Perito Moreno\n1975",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "OPTATIVA: OPTATIVA II-MUSICALIZACIÓN PARA MEDIOS AUDIOVISUALES  (2018/2022)-HIBRIDA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "Aula Perito\nMoreno",
+        "fin": "Aula Perito\nMoreno",
+        "aula": "Perito Moreno\n1975",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "INGLES INTEGRAL II": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "7",
+        "fin": "7",
+        "aula": "San Martin",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "7",
+        "fin": "7",
+        "aula": "San Martin",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "INTRODUCCIÓN AL DISEÑO DE VIDEO JUEGOS": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "Informática",
+        "fin": "Informática",
+        "aula": "San Martin",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "ARTE CONTEMPORÁNEO  VIRTUAL": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "Virtual",
+        "fin": "Virtual",
+        "aula": "Virtual",
+        "lugar": "Viernes"
+      }
+    ]
+  }
+}
