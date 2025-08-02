@@ -1,0 +1,338 @@
+{
+  "ASIGNATURA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC \n COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR/\nMODALIDAD",
+        "lugar": "DÍA"
+      }
+    ]
+  },
+  "ESTADÍSTICA GENERAL": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "Informatica",
+        "fin": "Informatica",
+        "aula": "Teorico",
+        "lugar": "Lunes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "Informatica",
+        "fin": "Informatica",
+        "aula": "Practico",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "SISTEMAS PRODUCTIVOS INTENSIVOS": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC",
+        "inicio": "5",
+        "fin": "5",
+        "aula": "Presencial",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "BOTÁNICA SISTEMÁTICA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "7",
+        "fin": "7",
+        "aula": "Presencial",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO 3",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO 1",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial",
+        "lugar": "Viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO 2",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "BIOQUÍMICA APLICADA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC",
+        "inicio": "6",
+        "fin": "6",
+        "aula": "Presencial",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "INGLES EL 456 E INGLÉS COMPRENSIÓN LECTORA L0001": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "ILEA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "7",
+        "fin": "7",
+        "aula": "Presencial",
+        "lugar": "martes"
+      }
+    ]
+  },
+  "FERTILIDAD DE LOS SUELOS": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC",
+        "inicio": "5",
+        "fin": "5",
+        "aula": "Presencial",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "SANIDAD VEGETAL": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "5",
+        "fin": "5",
+        "aula": "Presencial",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "SOCIOLOGÍA Y EXTENSIÓN AGRÁRIAS": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "2",
+        "fin": "2",
+        "aula": "Presencial",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "SISTEMAS PRODUCTIVOS ORGANICOS": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC",
+        "inicio": "5",
+        "fin": "5",
+        "aula": "Presencial",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "MAQUINARIA AGRICOLA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC",
+        "inicio": "5",
+        "fin": "5",
+        "aula": "Presencial",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "SISTEMAS DE RIEGO Y DRENAJE": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC",
+        "inicio": "8+lab. química",
+        "fin": "8+lab. química",
+        "aula": "Presencial",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "APICULTURA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC",
+        "inicio": "6+lab. Micro",
+        "fin": "6+lab. Micro",
+        "aula": "Presencial",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "MERCADOS AGROPECUARIOS": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC",
+        "inicio": "Perito Moreno",
+        "fin": "Perito Moreno",
+        "aula": "Presencial",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "INDUSTRIAS DE LA ALIMENTACIÓN": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC",
+        "inicio": "7+Lab. Micro",
+        "fin": "7+Lab. Micro",
+        "aula": "Presencial",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "SEMINARIO DE INTENSIFICACIÓN": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "8",
+        "fin": "8",
+        "aula": "Presencial",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "FRUTICULTURA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC",
+        "inicio": "8",
+        "fin": "8",
+        "aula": "Presencial",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "HORTICULTURA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC",
+        "inicio": "7",
+        "fin": "7",
+        "aula": "Presencial",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "ADMINISTRACIÓN RURAL": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC",
+        "inicio": "Perito Moreno",
+        "fin": "Perito Moreno",
+        "aula": "Presencial",
+        "lugar": "Martes"
+      }
+    ]
+  }
+}

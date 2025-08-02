@@ -1,0 +1,520 @@
+{
+  "CODIGO SIU": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO/ PCO  -  COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO/ PCO  -  COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO/ PCO  -  COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO/ PCO  -  COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO/ PCO  -  COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO/ PCO  -  COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO/ PCO  -  COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEO/ PCO  -  COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      }
+    ]
+  },
+  "B5900": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "AULA 8",
+        "fin": "AULA 8",
+        "aula": "ESCUELA 187",
+        "lugar": "Martes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "AULA 8",
+        "fin": "AULA 8",
+        "aula": "ESCUELA 187",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "B5901": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO/PRACTICO",
+        "inicio": "PB",
+        "fin": "PB",
+        "aula": "CHUBUT",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO/PRACTICO",
+        "inicio": "SUM",
+        "fin": "SUM",
+        "aula": "CHUBUT",
+        "lugar": "Viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO/PRACTICO",
+        "inicio": "PB",
+        "fin": "PB",
+        "aula": "CHUBUT",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO/PRACTICO",
+        "inicio": "SUM",
+        "fin": "SUM",
+        "aula": "CHUBUT",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "T0002": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO/PRACTICO",
+        "inicio": "PB",
+        "fin": "PB",
+        "aula": "CHUBUT",
+        "lugar": "Viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO/PRACTICO",
+        "inicio": "PB",
+        "fin": "PB",
+        "aula": "CHUBUT",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "B5906": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 4",
+        "fin": "AULA 4",
+        "aula": "ESCUELA 187",
+        "lugar": "Viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 4",
+        "fin": "AULA 4",
+        "aula": "ESCUELA 187",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "B5910": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "PB",
+        "fin": "PB",
+        "aula": "CHUBUT",
+        "lugar": "miercoles"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "PB",
+        "fin": "PB",
+        "aula": "CHUBUT",
+        "lugar": "miercoles"
+      }
+    ]
+  },
+  "B5914": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "PB",
+        "fin": "PB",
+        "aula": "CHUBUT",
+        "lugar": "Viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "PB",
+        "fin": "PB",
+        "aula": "CHUBUT",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "B5917": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 8",
+        "fin": "AULA 8",
+        "aula": "ESCUELA 187",
+        "lugar": "Lunes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 8",
+        "fin": "AULA 8",
+        "aula": "ESCUELA 187",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "VR305 / L0002": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "PB",
+        "fin": "PB",
+        "aula": "CHUBUT",
+        "lugar": "Lunes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "PB",
+        "fin": "PB",
+        "aula": "CHUBUT",
+        "lugar": "Lunes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "B5953": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "SALON PALACIOS Y ANASAGASTI",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "B5955": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "SALON PALACIOS Y ANASAGASTI",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "B5951": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "SALON PALACIOS Y ANASAGASTI",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "B5956": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "SALON PALACIOS Y ANASAGASTI",
+        "lugar": "Viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "SALON PALACIOS Y ANASAGASTI",
+        "lugar": "Sábado (intermitente)"
+      }
+    ]
+  },
+  "B0114": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "B5167": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "T/P",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "-",
+        "lugar": "-"
+      }
+    ]
+  },
+  "PROFESORADO EN TEATRO": {
+    "docente": "-",
+    "email": "-",
+    "horarios": []
+  },
+  "B5904": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "PB",
+        "fin": "PB",
+        "aula": "CHUBUT",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "B5911": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "B202-B",
+        "fin": "B202-B",
+        "aula": "ANASAGASTI 2",
+        "lugar": "Lunes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "B203 TIC´S",
+        "fin": "B203 TIC´S",
+        "aula": "ANASAGASTI 2",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "B5918": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "PB",
+        "fin": "PB",
+        "aula": "CHUBUT",
+        "lugar": "martes"
+      }
+    ]
+  },
+  "B5925": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "PB",
+        "fin": "PB",
+        "aula": "CHUBUT",
+        "lugar": "Martes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICA",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "B5922": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "PB",
+        "fin": "PB",
+        "aula": "CHUBUT",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "B5920": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "SALON PALACIOS Y ANASAGASTI",
+        "lugar": "Jueves"
+      }
+    ]
+  }
+}

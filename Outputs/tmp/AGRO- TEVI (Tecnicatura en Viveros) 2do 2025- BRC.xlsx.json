@@ -1,0 +1,244 @@
+{
+  "CODIGO SIU": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR / PRACT  - COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR / PRACT  - COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR / PRACT  - COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR / PRACT  - COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      }
+    ]
+  },
+  "B5834": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO/PRACTICO",
+        "inicio": "B202-B",
+        "fin": "B202-B",
+        "aula": "ANASAGASTI 2",
+        "lugar": "MARTES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO/PRACTICO",
+        "inicio": "AULA 1",
+        "fin": "AULA 1",
+        "aula": "Tacuari 150",
+        "lugar": "viernes"
+      }
+    ]
+  },
+  "B5835": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "AULA 1",
+        "fin": "AULA 1",
+        "aula": "Tacuari 150",
+        "lugar": "jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "AULA 1",
+        "fin": "AULA 1",
+        "aula": "Tacuari 150",
+        "lugar": "jueves"
+      }
+    ]
+  },
+  "B5836": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO 1 Y 2",
+        "inicio": "B102-B",
+        "fin": "B102-B",
+        "aula": "ANASAGASTI 2",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO COM 1",
+        "inicio": "Lab. de Optica",
+        "fin": "Lab. de Optica",
+        "aula": "Tacuari 150",
+        "lugar": "lunes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO COM 2",
+        "inicio": "Lab. de Optica",
+        "fin": "Lab. de Optica",
+        "aula": "Tacuari 150",
+        "lugar": "lunes"
+      }
+    ]
+  },
+  "L0001": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO/PRACTICO",
+        "inicio": "B202-B",
+        "fin": "B202-B",
+        "aula": "ANASAGASTI 2",
+        "lugar": "LUNES"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO/PRACTICO",
+        "inicio": "B202-B",
+        "fin": "B202-B",
+        "aula": "ANASAGASTI 2",
+        "lugar": "MIERCOLES"
+      }
+    ]
+  },
+  "B5841": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO/ PRACTICO",
+        "inicio": "AULA 5",
+        "fin": "AULA 5",
+        "aula": "TACUARI 150",
+        "lugar": "LUNES"
+      }
+    ]
+  },
+  "B5840": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO/ PRACTICO",
+        "inicio": "TIC´S 2",
+        "fin": "TIC´S 2",
+        "aula": "TACUARI 150",
+        "lugar": "VIERNES"
+      }
+    ]
+  },
+  "B5842": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO/PRACTICO",
+        "inicio": "AULA 1",
+        "fin": "AULA 1",
+        "aula": "Tacuari 150",
+        "lugar": "viernes"
+      }
+    ]
+  },
+  "B5845": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO/PRACTICO",
+        "inicio": "Aula 4",
+        "fin": "Aula 4",
+        "aula": "Tacuari 150",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "OPTATIVAS": {
+    "docente": "-",
+    "email": "-",
+    "horarios": []
+  },
+  "B5627": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRACT",
+        "inicio": "B102-B",
+        "fin": "B102-B",
+        "aula": "ANASAGASTI 2",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "B0103": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRACT",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "Viernes"
+      }
+    ]
+  }
+}

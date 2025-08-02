@@ -1,0 +1,485 @@
+{
+  "ASIGNATURA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC\n COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR/\nMODALIDAD",
+        "lugar": "DÍA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC\n COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR/\nMODALIDAD",
+        "lugar": "DÍA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC\n COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR/\nMODALIDAD",
+        "lugar": "DÍA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC\n COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR/\nMODALIDAD",
+        "lugar": "DÍA"
+      }
+    ]
+  },
+  "BASES CONCEPTUALES DE LA AGROECOLOGIA Y AGRICULTURA\nSUSTENTABLE": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial",
+        "lugar": "Miercoles"
+      }
+    ]
+  },
+  "BOTÀNICA SISTEMATICA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "7+lab. química",
+        "fin": "7+lab. química",
+        "aula": "Presencial",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO, COM\n3",
+        "inicio": "3+lab. química",
+        "fin": "3+lab. química",
+        "aula": "Presencial",
+        "lugar": "jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO, COM 1",
+        "inicio": "3+lab. química",
+        "fin": "3+lab. química",
+        "aula": "Presencial",
+        "lugar": "Viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO, COM 2",
+        "inicio": "3+lab. química",
+        "fin": "3+lab. química",
+        "aula": "Presencial",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "FISICA APLICADA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "7",
+        "fin": "7",
+        "aula": "Presencial",
+        "lugar": "Lunes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "7",
+        "fin": "7",
+        "aula": "Presencial",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "ILEA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "7",
+        "fin": "7",
+        "aula": "Presencial",
+        "lugar": "martes"
+      }
+    ]
+  },
+  "ESTADÍSTICA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "informatica",
+        "fin": "informatica",
+        "aula": "Presencial",
+        "lugar": "Lunes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "Informatica",
+        "fin": "Informatica",
+        "aula": "Presencial",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "BIOQUÍMICA  APLICADA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO, COM 1",
+        "inicio": "3+lab. química",
+        "fin": "3+lab. química",
+        "aula": "Presencial",
+        "lugar": "Lunes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "7+lab. química",
+        "fin": "7+lab. química",
+        "aula": "Presencial",
+        "lugar": "Miercoles"
+      }
+    ]
+  },
+  "SISTEMAS PRODUCTIVOS ORGANICOS  Y CERTIFICACIONES": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "5",
+        "fin": "5",
+        "aula": "Presencial",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "ECOLOGÍA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO/PRACTICO",
+        "inicio": "6",
+        "fin": "6",
+        "aula": "Presencial",
+        "lugar": "Miercoles"
+      }
+    ]
+  },
+  "FUNDAMENTOS DE LA PROD ANIMAL \nEN AGROECOLOGÍA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial",
+        "lugar": "Martes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "5",
+        "fin": "5",
+        "aula": "Presencial",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "MAQUINARIA AGRÍCOLA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "5",
+        "fin": "5",
+        "aula": "Presencial",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "INGLÉS\nINGLÉS COMPRENSIÓN LECTORA I": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial",
+        "lugar": "Martes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "Virtual",
+        "fin": "Virtual",
+        "aula": "Virtual",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "DESARROLLO RURAL": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "HORTICULTURA Y CULTIVOS PROTEGIDOS": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "8",
+        "fin": "8",
+        "aula": "Presencial",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "MANEJO Y USO  RACIONAL DEL AGUA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "8",
+        "fin": "8",
+        "aula": "Presencial",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "AROMÁTICAS Y  MEDICINALES": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO\nPRACTICO",
+        "inicio": "5",
+        "fin": "5",
+        "aula": "Presencial",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "FRUTICULTURA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "Perito Moreno",
+        "fin": "Perito Moreno",
+        "aula": "Presencial",
+        "lugar": "Mièrcoles"
+      }
+    ]
+  },
+  "TALLERES DE PROYECTOS DIDÁCTICO-PRODUCTIVOS": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO -PRACTICO",
+        "inicio": "6",
+        "fin": "6",
+        "aula": "Presencial",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "ADMINISTRACIÓN RURAL": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "Perito Moreno",
+        "fin": "Perito Moreno",
+        "aula": "Presencial",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "RUMIANTES MENORES": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "SISTEMAS DE PRODUCION  BOVINA EN  ECOSIST. FRÁGILES": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "TECNOLOGÍA DE  ALIMENTOS": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "6",
+        "fin": "6",
+        "aula": "Presencial",
+        "lugar": "Martes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "INTEGRADOR",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "Presencial",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "ENERGÌAS RENOVABLES PARA LA AGROECOLOGÍA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO\n /PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "Presencial",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "SEMINARIO DE INTEGRACIÓN Y TESINA DE LICENCIATURA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "Presencial",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "OPTATIVA: APICULTURA": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC",
+        "inicio": "6",
+        "fin": "6",
+        "aula": "Presencial",
+        "lugar": "Jueves"
+      }
+    ]
+  }
+}

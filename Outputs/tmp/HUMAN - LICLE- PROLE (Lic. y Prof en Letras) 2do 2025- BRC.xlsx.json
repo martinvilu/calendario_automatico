@@ -1,0 +1,834 @@
+{
+  "CODIGO SIU": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TIPO",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TIPO",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TIPO",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TIPO",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TIPO",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TIPO",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TIPO",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TIPO",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TIPO",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DIA"
+      }
+    ]
+  },
+  "B5545": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "B101",
+        "fin": "B101",
+        "aula": "ANASAGASTI 2",
+        "lugar": "Lunes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "B101",
+        "fin": "B101",
+        "aula": "ANASAGASTI 2",
+        "lugar": "Lunes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "AULA 7",
+        "fin": "AULA 7",
+        "aula": "ESCUELA 266",
+        "lugar": "Lunes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "AULA 7",
+        "fin": "AULA 7",
+        "aula": "ESCUELA 266",
+        "lugar": "Lunes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "B101",
+        "fin": "B101",
+        "aula": "ANASAGASTI 2",
+        "lugar": "Lunes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "Lunes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "AULA 7",
+        "fin": "AULA 7",
+        "aula": "ESCUELA 266",
+        "lugar": "Lunes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "B5396": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "AULA 7",
+        "fin": "AULA 7",
+        "aula": "ESCUELA 266",
+        "lugar": "viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "AULA 7",
+        "fin": "AULA 7",
+        "aula": "ESCUELA 266",
+        "lugar": "viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "AULA 7",
+        "fin": "AULA 7",
+        "aula": "ESCUELA 266",
+        "lugar": "viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "AULA 7",
+        "fin": "AULA 7",
+        "aula": "ESCUELA 266",
+        "lugar": "viernes"
+      }
+    ]
+  },
+  "B5395": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO C1 Y C2",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "miércoles"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO COM 1",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "miércoles"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO COM 2",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "miércoles"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "miércoles"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO- COM 1",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "miércoles"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO-COM 2",
+        "inicio": "AULA 2 \"D\"",
+        "fin": "AULA 2 \"D\"",
+        "aula": "MITRE 630",
+        "lugar": "miércoles"
+      }
+    ]
+  },
+  "B5464": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "Lunes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 2 \"B\"",
+        "fin": "AULA 2 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "B5465": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 2",
+        "fin": "AULA 2",
+        "aula": "ESCUELA 266",
+        "lugar": "Miércoles"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 2",
+        "fin": "AULA 2",
+        "aula": "ESCUELA 266",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "B5552": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "B202-B",
+        "fin": "B202-B",
+        "aula": "ANASAGASTI 2",
+        "lugar": "Lunes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "B203 TIC´S",
+        "fin": "B203 TIC´S",
+        "aula": "ANASAGASTI 2",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "B5466": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO- PRACTICO",
+        "inicio": "AULA 3",
+        "fin": "AULA 3",
+        "aula": "ESCUELA 266",
+        "lugar": "Martes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO- PRACTICO",
+        "inicio": "AULA 3",
+        "fin": "AULA 3",
+        "aula": "ESCUELA 266",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "B5463": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "Viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "B5127/ B5475": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 6",
+        "fin": "AULA 6",
+        "aula": "ESCUELA 266",
+        "lugar": "Martes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 6",
+        "fin": "AULA 6",
+        "aula": "ESCUELA 266",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "B5124": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "Viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "Viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "Viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "B5142": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 3",
+        "fin": "AULA 3",
+        "aula": "ESCUELA 266",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 3",
+        "fin": "AULA 3",
+        "aula": "ESCUELA 266",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "L0001": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "Martes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 4 \"B\"",
+        "fin": "AULA 4 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "B5476": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 2",
+        "fin": "AULA 2",
+        "aula": "ESCUELA 266",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 2",
+        "fin": "AULA 2",
+        "aula": "ESCUELA 266",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "B5126/ B5474": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "Miércoles"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "B5130": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "B5143": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "Martes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "B5149": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 2",
+        "fin": "AULA 2",
+        "aula": "ESCUELA 266",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "LICENCIATURA EN LETRAS": {
+    "docente": "-",
+    "email": "-",
+    "horarios": []
+  },
+  "B5105": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "B202-A",
+        "fin": "B202-A",
+        "aula": "ANASAGASTI 2",
+        "lugar": "Martes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "B202-B",
+        "fin": "B202-B",
+        "aula": "ANASAGASTI 2",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "AULA 8",
+        "fin": "AULA 8",
+        "aula": "ESCUELA 266",
+        "lugar": "Martes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "AULA 8",
+        "fin": "AULA 8",
+        "aula": "ESCUELA 266",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "5463": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "AULA 2 \"A\"",
+        "fin": "AULA 2 \"A\"",
+        "aula": "MITRE 630",
+        "lugar": "Viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "L0004": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "VIRTUAL",
+        "lugar": "Martes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 4 \"B\"",
+        "fin": "AULA 4 \"B\"",
+        "aula": "MITRE 630",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "B5478": {
+    "docente": "-",
+    "email": "-",
+    "horarios": []
+  },
+  "B5477": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "B202-A",
+        "fin": "B202-A",
+        "aula": "ANASAGASTI 2",
+        "lugar": "Viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO",
+        "inicio": "B202-A",
+        "fin": "B202-A",
+        "aula": "ANASAGASTI 2",
+        "lugar": "-"
+      }
+    ]
+  },
+  "B5129 / B5478": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO/PRACTICO",
+        "inicio": "TIC´S 2",
+        "fin": "TIC´S 2",
+        "aula": "TACUARI 150",
+        "lugar": "LUNES"
+      }
+    ]
+  },
+  "B0112": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "PECERA",
+        "fin": "PECERA",
+        "aula": "ANASAGASTI 2",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "B4970?": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 7",
+        "fin": "AULA 7",
+        "aula": "ESCUELA 266",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "B5569": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEORICO-PRACTICO",
+        "inicio": "AULA 2 \"C\"",
+        "fin": "AULA 2 \"C\"",
+        "aula": "MITRE 630",
+        "lugar": "Viernes"
+      }
+    ]
+  }
+}
