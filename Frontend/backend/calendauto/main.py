@@ -41,7 +41,13 @@ def submit():
     for data in complete_data:
         links.append(carreraData.get(selected_carrera, {}).get(data[0], {}).get(data[1], {}).get("link"))
 
-    links.append(carreraData.get("Calendario Academico",{}).get("link"))
+    calendario_path = os.path.join(os.path.dirname(__file__), '../../../Outputs', 'link_calendario_academico.json')
+
+    with open(calendario_path, 'r', encoding='utf-8') as f:
+        calendarioData = json.load(f)
+        f.close()
+
+    links.append(calendarioData.get("link"))
     selected_options.append("Calendario Academico")
     #selected_options.append(selected_carrera)
 
@@ -52,7 +58,14 @@ def submit():
 def pagina_no_encontrada(error):
     return render_template('404.html'), 404
 
+# Cambiar el valor de esta variable a true si se esta trabajando en un entorno de desarollo local, testeando nuevas funciones, etc
+local_test = False
+
 if __name__ == '__main__':
-    app.run(debug=True, host='192.168.1.44', port=2000)
+    if local_test:
+        app.run(debug=True)
+    else:
+        app.run(debug=True, host='192.168.1.44', port=2000)
+
     
 
