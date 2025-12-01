@@ -1,25 +1,61 @@
-.botones{
+/* ====== ESTILO GENERAL ====== */
+
+body {
+    margin: 0;
+    padding: 0;
+    background: url("../images/bg_texture.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: "Segoe UI", Arial, sans-serif;
     display: flex;
-    position: absolute;
-    top: 25%;
-    left: 28%;
-    align-self: center;
-    border: 5px;
-    background-color: #aa1111 ;
-    color: white;
-    padding: 10px;
-    font-size: 16px;
-    font-family: "Arial";
-    border: 1px;
-    cursor: pointer;
-    min-width: 600px;
-    border-radius: 15px;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+}
+
+/* ====== CONTENEDOR PRINCIPAL ====== */
+
+.botones {
+    margin-top: 80px;
+    background: #ffffff;
+    padding: 40px 60px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+    width: 600px;
 }
 
 .botones-container {
-    position: relative;
-    min-width: 600px;
-    align-content: center;
+    width: 100%;
+}
+
+/* ====== TEXTO DE LA MATERIA ====== */
+
+.botones-container p {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 8px;
+    margin-top: 25px;
+}
+
+/* ====== BOTÓN AGREGAR A CALENDARIO ====== */
+
+.botones-container a {
     text-decoration: none;
-    font-family: "Arial";
+}
+
+.botones-container button {
+    width: 100%;
+    background-color: #bb0a1e;
+    color: white;
+    padding: 14px;
+    font-size: 17px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    transition: background 0.2s ease-in-out;
+}
+
+.botones-container button:hover {
+    background-color: #8a0816;
 }
