@@ -1,6 +1,6 @@
 var formDiv = document.getElementById('materias-content');
 const container = document.getElementById('dpdw-carreras'); //Obtengo el contenedor de los botones
-delete json_source['Calendario Academico'];
+//delete json_source['Calendario Academico'];
 const carreras = json_source; //Obtengo todas las carreras y omito el Calendario Academico
 
 for(let carrera in carreras){ //Recorro todas las carreras que hay en el json
@@ -17,5 +17,5 @@ for(let carrera in carreras){ //Recorro todas las carreras que hay en el json
     dropDownCarreras(); 
   });
   container.appendChild(button);
-   
+} 
  

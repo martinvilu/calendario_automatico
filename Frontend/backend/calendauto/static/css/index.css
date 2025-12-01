@@ -1,73 +1,101 @@
-.table-style{
-  display: flex;
-  position: absolute;
-  top: 25%;
-  left: 28%;
-  align-self: center;
-  border: 5px;
-  max-width: 300px;
-  word-wrap: break-word;
+/* ====== ESTILO GENERAL DE LA PÁGINA ====== */
+
+body {
+    margin: 0;
+    padding: 0;
+    background: url("../images/bg_texture.jpg"); /* poné una textura similar o color liso */
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: "Segoe UI", Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
 }
 
-.table-style tr{
-  display: flex;
-  justify-self: center;
+/* ====== CONTENEDOR PRINCIPAL ====== */
+
+.table-style {
+    margin-top: 80px;
+    background: #ffffff;
+    padding: 40px 60px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+    width: 600px;
 }
+
+.table-style p {
+    font-size: 18px;
+    text-align: center;
+}
+
+/* ====== BOTÓN DROPDOWN PRINCIPAL ====== */
 
 .dropbtn {
-  display: flex;
-  background-color: #aa1111 ;
-  color: white;
-  justify-self: center;
-  padding: 10px;
-  font-size: 16px;
-  font-family: "Arial";
-  border: 1px;
-  cursor: pointer;
-  min-width: 600px;
-  border-radius: 15px 15px 1px 1px;
+    width: 100%;
+    background-color: #bb0a1e;
+    color: white;
+    padding: 14px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    text-align: center;
 }
 
 .dropbtn:hover {
-  background-color: #661111;
-  color: #cccccc;
+    background-color: #8a0816;
 }
+
+/* ====== CONTENEDOR DEL DROPDOWN ====== */
 
 .dropdown {
-  display: inline-block;
+    width: 100%;
+    position: relative;
 }
 
-.dropdown-content{
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  background-color: #eeeeee;
-  position:absolute;
-  display: none;
-  justify-self: center;
-  min-width: 600px;  
-  z-index: 1;
-  border: 1px
+.dropdown-content {
+    display: none;
+    position: absolute;
+    width: 100%;
+    background-color: #fafafa;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+    border-radius: 8px;
+    overflow: hidden;
+    max-height: 350px;
+    overflow-y: auto;
 }
 
-.dropdown-content button{
-  display: flex;
-  color: black;
-  border: 4px;
-  padding: 12px 16px;
-  min-width: 600px;
-  align-content: center;
-  text-decoration: none;
-  font-family: "Arial";
-  z-index: 1;
+.dropdown-content button {
+    width: 100%;
+    padding: 12px 16px;
+    border: none;
+    background: white;
+    text-align: left;
+    font-size: 16px;
+    cursor: pointer;
 }
 
-.dropdown-content button:hover{
-  background-color:#aaaaaa;
+.dropdown-content button:hover {
+    background-color: #e6e6e6;
 }
+
+/* Mostrar dropdown */
+.show {
+    display: block;
+}
+
+/* ====== SECCIÓN DE MATERIAS ====== */
 
 .materias-holder{
   display: none;
   font-family: "Arial";
   justify-content: center;
+}
+
+.materias-scroll{
+  overflow-y: auto;
+  height: 55vh;
 }
 
 #materias-content tr{
@@ -76,10 +104,11 @@
 
 .materia-button{
   background-color: #aa1111;
-  color: #cccccc;
+  color: #ffffff;
   min-width: 600px;
   min-height: 100px;
   border: none;
+  cursor: pointer;
 }
 
 .materia-button:hover{
@@ -89,4 +118,21 @@
 }
 
 .show {display: block;}
+
+/* Botón de Generar Link */
+#materias-submit {
+    margin-top: 20px;
+    width: 100%;
+    background-color: #036;
+    color: white;
+    padding: 14px;
+    border: none;
+    border-radius: 8px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+#materias-submit:hover {
+    background-color: #aa1111;
+}
 
