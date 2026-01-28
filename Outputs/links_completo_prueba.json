@@ -1,5 +1,5 @@
 {
-  "AGRO - I AMBIENTAL - 1º C 25.xlsx.json": {
+  "INGENIERIA AMBIENTAL": {
     "B 5622 -ÁLGEBRA Y GEOMETRÍA ANALÍTICA (RECURSADA)": {
       "C1": {
         "id": "92e094ad794a6e17c115cfb95d257b5dd8984f4f82c3390d0e5a653d57aeeae0@group.calendar.google.com",
@@ -32,14 +32,12 @@
         "link": "https://calendar.google.com/calendar/embed?src=519cacad2fb19d42ef264e832748ccfa521aced45a97e0b6256cd27f519c66da@group.calendar.google.com&ctz=America/Argentina/Buenos_Aires"
       }
     },
-    "B0045/B5623-INFORMATICA Y FUNDAMENTOS DE PROGRAMACION / INFORMÁTICA (COM 1)": {
+    "B0045/B5623-INFORMATICA Y FUNDAMENTOS DE PROGRAMACION INFORMÁTICA": {
       "C1": {
         "id": "98d8e3ef64555bbc043a79650380fe5b48ac50204c30d873308b3caf1ddd6377@group.calendar.google.com",
         "link": "https://calendar.google.com/calendar/embed?src=98d8e3ef64555bbc043a79650380fe5b48ac50204c30d873308b3caf1ddd6377@group.calendar.google.com&ctz=America/Argentina/Buenos_Aires"
-      }
-    },
-    "B0045/B5623-INFORMATICA Y FUNDAMENTOS DE PROGRAMACION / INFORMÁTICA (COM 2)": {
-      "C1": {
+      },
+      "C2": {
         "id": "3b9f10a34ba9eeb623789db48366e2888c21c79e9b48e4b8e66b14cd0b04a3e4@group.calendar.google.com",
         "link": "https://calendar.google.com/calendar/embed?src=3b9f10a34ba9eeb623789db48366e2888c21c79e9b48e4b8e66b14cd0b04a3e4@group.calendar.google.com&ctz=America/Argentina/Buenos_Aires"
       }
@@ -50,7 +48,7 @@
         "link": "https://calendar.google.com/calendar/embed?src=13145da14faebb91b3fe5c1b120ce2237d00121501bf5cf128a2228a92d414cd@group.calendar.google.com&ctz=America/Argentina/Buenos_Aires"
       }
     },
-    "B5733-QUÍMICA\nORGÁNICA": {
+    "B5733-QUÍMICA ORGÁNICA": {
       "C1": {
         "id": "b8faa7ff65274afee06dd601703d71c4e56d2fb3312b2d99144a402bd5a29153@group.calendar.google.com",
         "link": "https://calendar.google.com/calendar/embed?src=b8faa7ff65274afee06dd601703d71c4e56d2fb3312b2d99144a402bd5a29153@group.calendar.google.com&ctz=America/Argentina/Buenos_Aires"
@@ -62,7 +60,7 @@
         "link": "https://calendar.google.com/calendar/embed?src=c533fe8b04367091e3e6102bf6262cde2ebd5d08ef5b057f13a2fa7b43b67f45@group.calendar.google.com&ctz=America/Argentina/Buenos_Aires"
       }
     },
-    "B5735-TECNOLOGÍA, AMBIENTE Y\nSOCIEDAD": {
+    "B5735-TECNOLOGÍA, AMBIENTE Y SOCIEDAD": {
       "C1": {
         "id": "ae5694adca664c27462e76a6ef39cb358b237ab7181214fe4a6a2ca4b9f1906e@group.calendar.google.com",
         "link": "https://calendar.google.com/calendar/embed?src=ae5694adca664c27462e76a6ef39cb358b237ab7181214fe4a6a2ca4b9f1906e@group.calendar.google.com&ctz=America/Argentina/Buenos_Aires"
@@ -177,7 +175,7 @@
       }
     }
   },
-  "AGRO- TEVI (Tecnicatura en Viveros) BRC 1er CUAT 25.xlsx.json": {
+  "TECNICATURA EN VIVEROS": {
     "B5833-QUÍMICA": {
       "C1": {
         "id": "-",
@@ -273,27 +271,23 @@
       }
     }
   },
-  "ARTE -  LIC. y PROF. TEATRO Y A DRAM - BRC 25.xlsx.json": {
-    "B5155-ENTRENAMIENTO CORPORAL I COMISIÓN A": {
+  "LIC. y PROF. TEATRO Y ARTES DRAM.": {
+    "B5155-ENTRENAMIENTO CORPORAL I": {
       "C1": {
+        "id": "-",
+        "link": "LINK NO GENERADO"
+      },
+      "C2": {
         "id": "-",
         "link": "LINK NO GENERADO"
       }
     },
-    "B5155-ENTRENAMIENTO CORPORAL I COMISIÓN B": {
+    "B5152-ACTUACIÓN I": {
       "C1": {
         "id": "-",
         "link": "LINK NO GENERADO"
-      }
-    },
-    "B5152-ACTUACIÓN I COMISIÓN A": {
-      "C1": {
-        "id": "-",
-        "link": "LINK NO GENERADO"
-      }
-    },
-    "B5152-ACTUACIÓN I COMISIÓN B": {
-      "C1": {
+      },
+      "C2": {
         "id": "-",
         "link": "LINK NO GENERADO"
       }
@@ -310,19 +304,17 @@
         "link": "LINK NO GENERADO"
       }
     },
-    "B5902-EDUCACIÓN DE LA VOZ I COMISIÓN A": {
+    "B5902-EDUCACIÓN DE LA VOZ I": {
       "C1": {
+        "id": "-",
+        "link": "LINK NO GENERADO"
+      },
+      "C2": {
         "id": "-",
         "link": "LINK NO GENERADO"
       }
     },
-    "B5902-EDUCACIÓN DE LA VOZ I COMISIÓN B": {
-      "C1": {
-        "id": "-",
-        "link": "LINK NO GENERADO"
-      }
-    },
-    "T0002-INTRODUCCIÓN A LA LECTURA Y ESCRITURA ACADÉMICA COM 1 (SÓLO PARA TEATRO Y ARTE DRAMÁTICO)": {
+    "T0002-INTRODUCCIÓN A LA LECTURA Y ESCRITURA ACADÉMICA": {
       "C1": {
         "id": "-",
         "link": "LINK NO GENERADO"
@@ -346,7 +338,7 @@
         "link": "LINK NO GENERADO"
       }
     },
-    "B5908-EDUCACIÓN DE LA VOZ II. A": {
+    "B5908-EDUCACIÓN DE LA VOZ II": {
       "C1": {
         "id": "-",
         "link": "LINK NO GENERADO"
