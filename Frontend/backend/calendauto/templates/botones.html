@@ -4,6 +4,7 @@
     <title>Horarios a calendario</title>
     <link rel="icon" type="image/jpg" href="{{ url_for('static',filename='./images/favicon.jpg') }}">
     <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='./css/botones.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">    
 </head>
 <body>
     <div class="botones">
@@ -19,5 +20,35 @@
             </a>
         </div>
     </div>
+    <footer class="main-footer">
+      <div class="footer-container">
+        
+        <div class="footer-info">
+          <p>© 2026 - Calendario Automático</p>
+          <p>Desarollado por alumnos de Ing. en Computación</p>
+        </div>
+
+        <div class="footer-logo">
+          <a href="https://www.unrn.edu.ar/home" target="_blank">
+            <img src="{{ url_for('static',filename='./images/UNRN-color.png') }}" alt="UNRN" class="logo-white">
+          </a>
+        </div>
+        
+        <div class="footer-social">
+          <a href="https://facebook.com/unrionegro/" target="_blank" class="social-icon fb">
+            <i class="fa-brands fa-facebook"></i>
+          </a>
+          <a href="https://twitter.com/unrionegro" target="_blank" class="social-icon tw">
+            <i class="fa-brands fa-x-twitter"></i>
+          </a>
+          <a href="https://instagram.com/unrionegro/" target="_blank" class="social-icon ig">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a href="https://www.youtube.com/channel/UCVNKpVN7T-NCfGGU0njnvFA" target="_blank" class="social-icon yt">
+            <i class="fa-brands fa-youtube"></i>
+          </a>
+        </div>
+      </div>
+    </footer>
 </body>
 </html>

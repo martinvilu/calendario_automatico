@@ -59,7 +59,7 @@ def pagina_no_encontrada(error):
     return render_template('404.html'), 404
 
 # Cambiar el valor de esta variable a true si se esta trabajando en un entorno de desarollo local, testeando nuevas funciones, etc
-local_test = False
+local_test = True
 
 if __name__ == '__main__':
     if local_test:

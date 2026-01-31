@@ -8,25 +8,97 @@ body {
     background-repeat: no-repeat;
     font-family: "Segoe UI", Arial, sans-serif;
     display: flex;
-    justify-content: center;
-    align-items: flex-start;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
     min-height: 100vh;
 }
 
 /* ====== CONTENEDOR PRINCIPAL ====== */
 
 .table-style {
-    margin-top: 80px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     background: #ffffff;
-    padding: 40px 60px;
+    padding: 30px 40px;
     border-radius: 12px;
     box-shadow: 0 4px 20px rgba(0,0,0,0.15);
-    width: 600px;
+    width: 90%;
+    max-width: 500px;
+    flex-shrink: 0;
 }
 
-.table-style p {
-    font-size: 18px;
-    text-align: center;
+.table-style p img {
+    /* font-size: 18px; */
+    /* text-align: center; */
+    max-width: 100%;
+    height: auto;
+}
+
+.main-footer {
+    background-color: #222; /* Color oscuro como la foto */
+    color: #fff;
+    padding: 30px 0;
+    width: 100%;
+    margin-top: auto; /* Se mantiene abajo */
+}
+
+.footer-container {
+    /* max-width: 1000px; */
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 5%;
+}
+
+.logo-white {
+    filter: brightness(0) invert(1); /* Mantiene el logo blanco por defecto */
+    height: 40px;
+    transition: filter 0.3s ease; /* Hace que el cambio de color sea suave */
+    cursor: pointer;
+}
+
+.logo-white:hover {
+    /* Este filtro genera el color #bb0a1e partiendo del blanco */
+    filter: invert(12%) sepia(95%) saturate(5451%) hue-rotate(353deg) brightness(81%) contrast(92%);
+}
+
+.footer-logo p {
+    font-size: 12px;
+    margin: 5px 0 0 0;
+    line-height: 1.2;
+}
+
+.footer-info p {
+    font-size: 13px;
+    margin: 2px 0;
+    color: #ccc;
+    align-self: center;
+}
+
+.footer-social {
+    display: flex;
+    gap: 15px;
+}
+
+.social-icon {
+    width: 35px;
+    height: 35px;
+    background: #444;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    transition: 0.3s;
+}
+
+.social-icon:hover {
+    background: #bb0a1e; /* Rojo al pasar el mouse */
 }
 
 /* ====== BOTÓN DROPDOWN PRINCIPAL ====== */
@@ -93,9 +165,18 @@ body {
   justify-content: center;
 }
 
-.materias-scroll{
-  overflow-y: auto;
-  height: 55vh;
+.materias-scroll {
+    height: 380px;
+    overflow-y: scroll;
+    /* Ocultar barra en Firefox */
+    scrollbar-width: none;   
+    /* Ocultar barra en Internet Explorer y Edge */
+    -ms-overflow-style: none; 
+}
+
+/* Ocultar barra en Chrome, Safari y Opera (WebKit) */
+.materias-scroll::-webkit-scrollbar {
+    display: none;
 }
 
 #materias-content tr{

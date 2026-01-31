@@ -3,6 +3,7 @@
     <title>Horarios a Calendario</title>
     <link rel="icon" type="image/jpg" href="{{ url_for('static',filename='./images/favicon.jpg') }}">
     <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='./css/index.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">    
     <script>
       const json_source = {{ fileData|safe }};
     </script>
@@ -11,8 +12,7 @@
     <table class="table-style"> 
       <tr>
         <td>
-          <img src="https://campusbimodal.unrn.edu.ar/pluginfile.php/1/core_admin/logo/0x200/1764306006/UNRN-color.png" width="500px" style="margin-bottom:20px">
-          </td>
+          <img src="{{ url_for('static',filename='./images/UNRN-color.png') }}" width="500px" style="margin-bottom:20px">
         </td>
       </tr> 
       <tr>
@@ -42,6 +42,48 @@
         </td>
       </tr> 
     </table>
+    <!-- <footer class="main-footer">
+        <div class="footer-content">
+            <strong>Universidad Nacional de Río Negro</strong>
+            <p>Rectorado: Belgrano 526, Viedma, Río Negro</p>
+            <div class="footer-links">
+                <a href="https://unrn.edu.ar" target="_blank">Sitio Web</a>
+                <a href="https://www.facebook.com/unrnoficial" target="_blank">Facebook</a>
+                <a href="https://www.instagram.com/unrnoficial" target="_blank">Instagram</a>
+            </div>
+            <p>© 2026 - Horarios a Calendario</p>
+        </div>
+    </footer> -->
+    <footer class="main-footer">
+      <div class="footer-container">
+        
+        <div class="footer-info">
+          <p>© 2026 - Calendario Automático</p>
+          <p>Desarollado por alumnos de Ing. en Computación</p>
+        </div>
+
+        <div class="footer-logo">
+          <a href="https://www.unrn.edu.ar/home" target="_blank">
+            <img src="{{ url_for('static',filename='./images/UNRN-color.png') }}" alt="UNRN" class="logo-white">
+          </a>
+        </div>
+        
+        <div class="footer-social">
+          <a href="https://facebook.com/unrionegro/" target="_blank" class="social-icon fb">
+            <i class="fa-brands fa-facebook"></i>
+          </a>
+          <a href="https://twitter.com/unrionegro" target="_blank" class="social-icon tw">
+            <i class="fa-brands fa-x-twitter"></i>
+          </a>
+          <a href="https://instagram.com/unrionegro/" target="_blank" class="social-icon ig">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a href="https://www.youtube.com/channel/UCVNKpVN7T-NCfGGU0njnvFA" target="_blank" class="social-icon yt">
+            <i class="fa-brands fa-youtube"></i>
+          </a>
+        </div>
+      </div>
+    </footer>
     <script src="{{ url_for('static',filename='./js/index.js') }}"></script>
     <script src="{{ url_for('static',filename='./js/create-materias.js') }}"></script>
     <script src="{{ url_for('static',filename='./js/create-carreras-btn.js') }}"></script>
