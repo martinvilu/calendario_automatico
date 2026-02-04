@@ -13,7 +13,7 @@ def get_links(filepath):
 
 @app.route('/')
 def index():
-    fileData = get_links(os.path.join(os.path.dirname(__file__), '../../../Outputs', 'links_completo_prueba.json'))
+    fileData = get_links(os.path.join(os.path.dirname(__file__), '../Outputs', 'links_completo_prueba.json'))
     return render_template('index.html', fileData = fileData)
 
 @app.route('/submit', methods=['POST'])
@@ -31,7 +31,7 @@ def submit():
     complete_data = list(zip(materias, comisiones))
     carreraData = 0
     links = []
-    links_path = os.path.join(os.path.dirname(__file__), '../../../Outputs', 'links_completo_prueba.json')
+    links_path = os.path.join(os.path.dirname(__file__), '../Outputs', 'links_completo_prueba.json')
     
     with open(links_path, 'r', encoding='utf-8') as f:
         carreraData = json.load(f)
@@ -41,7 +41,7 @@ def submit():
     for data in complete_data:
         links.append(carreraData.get(selected_carrera, {}).get(data[0], {}).get(data[1], {}).get("link"))
 
-    calendario_path = os.path.join(os.path.dirname(__file__), '../../../Outputs', 'link_calendario_academico.json')
+    calendario_path = os.path.join(os.path.dirname(__file__), '../Outputs', 'link_calendario_academico.json')
 
     with open(calendario_path, 'r', encoding='utf-8') as f:
         calendarioData = json.load(f)
